@@ -1,0 +1,128 @@
+nav {
+    box-sizing: border-box;
+    align-items: center;
+    background-color: #BFCFBB;
+    padding: 5px;
+    display: flex;
+    box-shadow: 0 0 12px -2px black;
+    position: sticky;
+    left: 0;
+    right: 0;
+    justify-content: space-between;
+    color: black;
+    display: flex;
+    height: 80px;
+  }
+body {
+  background-color: beige;
+}
+main{
+  background-color: bisque;
+  height: 850px;
+  
+}
+img{
+  margin-left: 100px;
+  margin-right: 100px;
+    width: 15%;
+}
+.gamer{
+  text-align: center;
+  font-size: 35px;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1300px;
+  height: 100px;
+}
+
+.firstxt{
+  text-align: center;
+  font-size: 25px;
+  position: absolute;
+  top: 120px;
+  left: 405px;
+  bottom: 50px
+}
+.oogway{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  font-size: 30px;
+  position: absolute;
+  top: 220px;
+  right: 700px;
+}
+.freetime{
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;
+}
+.accomplished{
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;
+}
+.gaming{
+  border-style: double;
+  padding: 10px;
+}
+.forge{
+  border-style: double;
+  padding: 10px;
+}
+.aqua{
+  border-style: double;
+  padding: 10px;
+}
+.game{
+  float: right;
+  width: 15%;
+}
+
+.metal{
+  float: left;
+  width: 15%;
+}
+
+.scape{
+  float: right;
+  width: 15%;
+}
+
+.first{
+  border-style: double;
+  padding: 10px;
+}
+
+.thefirst{
+  position: relative;
+  bottom: 70px;
+  border-radius: 25%;
+  float: right;
+  width: 200px;
+}
+
+.second{
+  border-style: double;
+  padding: 10px;
+}
+
+.the2nd{
+  position: relative;
+  bottom: 15px;
+  border-radius: 15%;
+  float: left;
+  width: 300px;
+}
+
+.thrid{
+  border-style: double;
+  padding: 10px;
+}
+.pc{
+  position: relative;
+  bottom: 65px;
+  border-radius: 15%;
+  float: right;
+  width: 160px;
+}
