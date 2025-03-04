@@ -126,3 +126,17 @@ img{
   float: right;
   width: 160px;
 }
+form {
+  font-size: 25px;
+  max-width: 260px;
+  margin: auto;
+}
+textarea {
+  width: 180px;
+  font-size: 15px;
+}
+.flexcontaner{
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 100px;
+}
